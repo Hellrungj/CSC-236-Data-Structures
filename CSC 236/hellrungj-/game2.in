@@ -1,0 +1,15 @@
+Question:Does it have equal or less than four legs?
+Question:Does it have six legs? - F
+Question:Does it have four legs? - T
+Question:Does it have eight legs? - FF  
+Question:Does it have string?  - FT 
+Question:Does it have two legs? -TF  
+Question:Does it have Fur? - TT
+Guess:Is it a No?  - FFF
+Guess:Is is a Spider? - FFT
+Guess:Is it an Ant? - FTF
+Guess:Is it a Scorpion? - FTT
+Guess:Is it a Worm? - TFF
+Guess:Is it a Human? - TFT
+Guess:Is it a Frog? -TTF
+Guess:Is it a Dog? -TTT

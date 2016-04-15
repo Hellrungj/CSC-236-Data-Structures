@@ -1,0 +1,52 @@
+-												A1 Question: "Can it fly?"
+							B1 Question: "Does it have Feet?" -F 2 Question: "Does it have Feathers?" -T
+C1 Is It a very small animal? -FF   C2 Does it have fur? C3 Question: -FT C3 Question:  C4 Question: "Can it lives in water?" - TT
+
+A1: Is is not Extinct?
+A1] B1: Is it a mammal? B2: Is it a reptile?|
+B1] C1: Is it an insect? C2: Does it have four legs? C3:|B2] C2: Does it have eight legs? C4: Does it have two legs?|
+B1[C1]] D1:Does it have four legs?	D2: Does it Fly? | D3: Does it have two legs? D4: Does it have fur?| B1[C2]] D5: Can you eat it? D6: Does it have two legs?| D7: does it have four legs? D8: Does it fly| B1[C3]] Does it| B1[C4]]
+B1[C1[F1]]]F1: Can you eat it? F2: Does it have scales? | F3: Does it Buzz? F4: Does it live in the grass? | F5: Does  
+
+				 
+
+Does it eat nuts?
+Does it live in a wet area?
+Does it like the Dark?
+Does it buzz?
+Does it glow?
+Is it a mammal? 	
+Is it an insect?
+does it live in water?
+Can you eat it?
+It is mythical?
+Does it like the taste of Blood?
+Does it have scales?
+Does it breath fire?
+Does it have horns
+Is it a dinosaur?
+is it a dragon?
+Can you ride the animal?
+Does this animal have stripes?
+Does this animal a tail? 
+Does this animal like to chew on bones?
+Does it have a mane? 
+Does it live in Africa?
+Does it live in the mountains?
+Does it have long teeth?
+Does it live in Australia?
+Does this Animal live in America?
+
+	
+	
+	
+125 Question: "Does it like to eat fish?"
+150 Question: "Does it have long legs?"
+175 Question: "Is the Animal pink?"
+200 Guess: It is a Flamingo?
+											                     50
+											                   25|75 	
+						 12.5||37.5                                                           62.5||87.5
+		 6.25|||18.75                     31.25|||43.75                    56.25|||68.75                      81.25|||93.75
+3.125||||9.375 15.625||||21.875 28.125||||34.375 40.625||||46.875 53.125||||59.375 65.625||||71.875 78.125||||84.375 90.625||||96.875
+											  	    

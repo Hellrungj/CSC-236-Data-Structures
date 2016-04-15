@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415972176 source:c:\users\hellrungj\desktop\hellrungj-a8\datedemo.cpp\main.cpp
+	<iostream>
+	<ctime>
+

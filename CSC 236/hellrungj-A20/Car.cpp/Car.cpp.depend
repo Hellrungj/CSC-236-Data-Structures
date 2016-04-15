@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1415979016 source:c:\users\hellrungj\desktop\hellrungj-a8\car.cpp\main.cpp
+	"Gearshift.cpp"
+	<iostream>
+
+1415979042 c:\users\hellrungj\desktop\hellrungj-a8\car.cpp\gearshift.cpp
+	"Gearshift.h"
+	<iostream>
+
+1415979059 c:\users\hellrungj\desktop\hellrungj-a8\car.cpp\gearshift.h
+

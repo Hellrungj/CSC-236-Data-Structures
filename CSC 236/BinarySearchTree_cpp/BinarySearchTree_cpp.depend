@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1414099290 source:c:\users\nakazawam\documents\binarysearchtree_cpp\binarysearchtree.cpp
+	<iostream>
+	<assert.h>
+	<string>
+
