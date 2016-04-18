@@ -1,0 +1,32 @@
+Date: 1/1/2000
+Add: 1000
+Should out put: 
+This a leep year
+
+1000 - 366 = 634
+634 - 365 = 265 
+Year = 2
+Its January:
+265 - 31 = 234
+Check if leep year:
+Its February:
+265 - 28 = 206
+Its March:
+206 - 31 = 176
+Its April:
+175 - 30 = 145
+Its May:
+145 - 31 = 114 
+Its June:
+114 - 30 = 84
+Its August:
+84 - 31 = 53
+Its September:
+53 - 30 = 23
+Check the days date:
+    adds days date to num 
+    if that Date's date is greater 30
+    subtract by the different and add 1 to the months
+    
+Then checks tthe month if its great than 12 if it subtracts different by 12 
+-and for each mod of month its adds 1 to the year
